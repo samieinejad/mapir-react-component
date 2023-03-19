@@ -1,4 +1,4 @@
-# MapirReactComponent
+# MapirReactComponent typescript version
 
 [![npm version](https://badge.fury.io/js/mapir-react-component.svg)](https://www.npmjs.com/package/mapir-react-component)
 
